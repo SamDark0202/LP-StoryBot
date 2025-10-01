@@ -32,7 +32,7 @@ const faqs = [
   },
   {
     question: "Preciso pagar mensalidades ou taxas adicionais?",
-    answer: "O StoryBot custa R$47 (pagamento único). Você pode precisar de uma conta no Make (que tem plano gratuito) para rodar a automação. Sem taxas ocultas!"
+    answer: "O StoryBot custa R$37 (pagamento único). Você pode precisar de uma conta no Make (que tem plano gratuito) para rodar a automação. Sem taxas ocultas!"
   },
   {
     question: "Funciona com contas comerciais e pessoais?",

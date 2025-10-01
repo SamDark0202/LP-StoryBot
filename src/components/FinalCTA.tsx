@@ -12,7 +12,7 @@ export const FinalCTA = () => {
         <div className="max-w-4xl mx-auto text-center">
           <div className="mb-8">
             <h2 className="font-heading text-3xl sm:text-4xl md:text-5xl lg:text-6xl mb-6 leading-tight">
-              Comece agora por <span className="text-primary">R$47</span> e nunca mais falhe nos Stories
+              Comece agora por <span className="text-primary">R$37</span> e nunca mais falhe nos Stories
             </h2>
             <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto">
               Junte-se aos creators, empreendedores e marcas que já automatizaram sua presença online
@@ -48,7 +48,7 @@ export const FinalCTA = () => {
               className="w-full sm:w-auto text-xl px-16"
             >
               <Zap className="w-6 h-6 mr-2" />
-              Comprar agora – R$47
+              Comprar agora – R$37
             </Button>
           </div>
           
