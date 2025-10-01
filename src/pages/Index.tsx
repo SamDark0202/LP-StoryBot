@@ -10,7 +10,7 @@ import { FAQ } from "@/components/FAQ";
 import { Guarantee } from "@/components/Guarantee";
 import { FinalCTA } from "@/components/FinalCTA";
 import { Footer } from "@/components/Footer";
-import { StickyButton } from "@/components/StickyButton";
+
 
 const Index = () => {
   return (
@@ -27,7 +27,7 @@ const Index = () => {
       <Guarantee />
       <FinalCTA />
       <Footer />
-      <StickyButton />
+    
     </div>
   );
 };

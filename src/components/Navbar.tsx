@@ -33,7 +33,7 @@ export const Navbar = () => {
             size="default"
             className="sm:hidden"
           >
-            R$47
+            Compra agora
           </Button>
         </div>
       </div>
