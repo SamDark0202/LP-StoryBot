@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { Clock, Zap, Target, TrendingUp } from "lucide-react";
-import heroImage from "@/assets/hero-mockup.jpg";
+import heroImage from "@/assets/storybot01.png";
 
 export const Hero = () => {
   const handleCTAClick = () => {
