@@ -30,7 +30,7 @@ const steps = [
 
 export const HowItWorks = () => {
   const handleCTAClick = () => {
-    window.open("https://www.kivano.com.br/", "_blank");
+    window.open("https://pay.kirvano.com/bbbf7d2a-6317-4f6f-975b-a8e11a83dce3", "_blank");
   };
 
   return (
